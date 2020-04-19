@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Factor Factor</string>
+    <string name="a">A.</string>
+    <string name="b">B.</string>
+    <string name="c">c.</string>
+    <string name="enter_number">enter number</string>
+    <string name="go">GO</string>
+    <string name="welcome_adarsh">Welcome Adarsh</string>
+    <string name="enter_a_number_and_choose_correct_option">Enter a number and choose correct option</string>
+</resources>
